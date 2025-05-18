@@ -1,0 +1,11 @@
+{
+    "firstname": "qa test",
+    "lastname": "user",
+    "gender": "Male",
+    "email": "testuser@qatest.com",
+    "mobile": "9841889977",
+    "dob": "17 May 2000",
+    "subject": "Maths",
+    "hobby": "Sports",
+    "address": "Kathmandu, Nepal"
+}
