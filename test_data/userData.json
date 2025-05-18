@@ -1,0 +1,14 @@
+{
+    "firstname": "test one",
+    "lastname": "user",
+    "age": "30",
+    "email": "adduser@qa.com",
+    "salary": "100",
+    "department": "QA",
+    "editFirstname": "test two",
+    "editLastname": "user",
+    "editAge": "30",
+    "editEmail": "edituser@qa.com",
+    "editSalary": "100",
+    "editDepartment": "QA"
+}
