@@ -27,7 +27,6 @@ test.describe('Student Registration Form', () => {
         await studentFormPage.clickSubmit();
         
         const titleName = await studentFormPage.getTitle();
-        console.log(titleName)
         expect(titleName).toContain("Thanks for submitting the form");
     });
 });
